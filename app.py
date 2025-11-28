@@ -5,7 +5,7 @@ import io
 import base64
 
 # Backend API URL (Update this with your Render URL after deployment)
-BACKEND_URL = "https://your-yolo-backend.onrender.com"  # Change this!
+BACKEND_URL = "https://bernice-groceries-final.onrender.com"  # Change this!
 
 st.title("YOLOv11 Grocery Item Detector")
 st.write("Detects **cheerios**, **soup**, and **candle**.")
